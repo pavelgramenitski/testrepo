@@ -1,5 +1,3 @@
-<<<<<<< HEAD
+
 master
-=======
-Test Branch
->>>>>>> TestPavel01
+
